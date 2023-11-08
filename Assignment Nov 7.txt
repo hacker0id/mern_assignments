@@ -1,0 +1,20 @@
+Assignment Nov 7 : 
+
+
+#1 : 
+ECMA stands for European Computer Manufacturer's Association.
+ECMA is a standard for scripting languages like JS, standard means
+it serves as a core and JS is implementation of it.
+
+#2 :
+Programming Lang vs Scripting Lang.
+
+PL : is considered as a whole with a lot of concepts like loops, ptrs etc,
+PLs are mostly compiled.
+PLs are machine dependent and independent.
+Used overall.
+
+SL : dont have all the concepts as a whole.
+SLs are interpreted.
+SLs used mostly in web-apps.
+Sls are made for particular runtime environments.
