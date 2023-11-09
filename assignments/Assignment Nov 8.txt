@@ -1,0 +1,47 @@
+#1 : URL?
+URL stands for Uniform Resource Locator, as the name suggests it helps locate a resource on the web.
+URL has parts like protocol:domain:port
+Protocol tells the browser what it needs (request, HTTP/HTTPS) and domain tells the address (where to look),
+The port is by default not visible and is 80 in value.
+Path can be a associated with a domain.
+Examples : 
+
+https://www.sadajuta.com --> https protocol , www.google.com domain.
+
+http://www.sadajuta.com/products --> /products is path here.
+
+
+
+#2: HTTPS vs HTTPS
+HTTP (Hypertext Transfer Protocol) and HTTPS (Hypertext Transfer Protocol Secure) are both protocols 
+used for transferring data over a network, but they differ in terms of security.
+
+HTTPS used SSL(secure sockets layer | depricated) / TLS(transport layer security | latest) for encryption of data where as there is no security in http which makes
+the data vulnerable to attacks like MITM.
+
+HTTP uses port 80
+HTTPS uses port 443
+
+#3 DOM?
+Document Object Model is what reacts to the changes on a web page.
+It defines a tree like structre where nodes and inter nodes are present.
+It can be manipulated using a Scripting Language like JS, JS can access and changes the elements
+of a webpage using DOM.
+It is standardized by W3C (World Wide Web Consortium).
+
+
+#4 Meta Tags : 
+Meta tags are tags that provide the metadata of the webpage.
+They convey info to the web broswers and search engines.
+They are ignored by the Rendering Engines and don't display any visual content.
+
+Ex: 
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+is used in responsive web pages to give info about the view port and scaling etc.
+
+
+#5 W3C
+World Wide Web Consortium is international community that standardizes characteristics for the better
+development of the web. They standardize characteristics for HTML CSS JS etc.
+They basically set the rules.
+
